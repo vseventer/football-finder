@@ -1,0 +1,15 @@
+h1, h2 {
+  text-align: center;
+}
+
+h1 {
+  border-bottom: 1px solid #CCC;
+  margin  : 0;
+  padding : 0.67em 0;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}

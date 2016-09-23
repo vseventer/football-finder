@@ -1,0 +1,10 @@
+{
+  "api": {
+    "base"   : "https://api.crowdscores.com/api/v1/",
+    "apiKey" : ""
+  },
+  "twitter": {
+    "base"  : "http://localhost:3001/1.1/",
+    "count" : 50
+  }
+}

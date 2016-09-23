@@ -1,0 +1,22 @@
+.reply, .tweets:empty, .tweet {
+  border       : 1px solid #CCC;
+  border-left  : none;
+  border-right : none;
+  padding      : 1em;
+}
+
+.reply {
+  font-weight   : bold;
+  margin-bottom : 0;
+}
+
+.tweets:empty, .tweet {
+  border-top: none;
+}
+.tweets:empty:before {
+  content: 'No tweets yet, be the first to ignite the discussion…';
+}
+
+.tweet:nth-child(odd) {
+  background-color: #F1F1F1;
+}

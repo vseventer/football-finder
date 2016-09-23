@@ -1,0 +1,17 @@
+.media {
+  border: 1px solid #CCC;
+  margin-bottom: 0.25em;
+  max-width: 100%;
+}
+
+.metadata {
+  list-style : none;
+  overflow   : hidden;
+}
+  .metadata li {
+    float: left;
+  }
+  .metadata li:not(:last-child):after {
+    content : '•';
+    padding : 0 0.25em;
+  }

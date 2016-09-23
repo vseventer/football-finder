@@ -1,0 +1,35 @@
+{
+  "name"        : "football-finder",
+  "version"     : "0.1.0",
+  "description" : "Find where the football is, and join the discussion!",
+  "bugs"        : "https://github.com/vseventer/football-finder/issues",
+  "license"     : "MIT",
+  "author"      : "Mark van Seventer <mark@vseventer.com>",
+  "repository"  : { "type": "git", "url": "vseventer/football-finder" },
+  "scripts" : {
+    "proxy" : "twitter-proxy ./twitter.config.json",
+
+    "start" : "concurrently 'react-scripts start' 'npm run proxy'",
+    "build" : "react-scripts build",
+    "test"  : "react-scripts test --env=jsdom",
+    "eject" : "react-scripts eject"
+  },
+  "dependencies": {
+    "concurrently"  : "2.2.x",
+    "jquery"        : "3.1.x",
+    "leaflet"       : "1.0.0-rc.3",
+    "moment"        : "2.15.x",
+    "react"         : "15.3.x",
+    "react-dom"     : "15.3.x",
+    "react-router"  : "2.8.x",
+    "twitter-proxy" : "2.0.x",
+    "twitter-text"  : "1.14.x"
+  },
+  "devDependencies": {
+    "chai"          : "3.5.x",
+    "enzyme"        : "2.4.x",
+    "react-scripts" : "0.4.x",
+    "react-addons-test-utils": "15.3.x"
+  },
+  "private": true
+}
