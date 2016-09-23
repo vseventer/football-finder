@@ -16,7 +16,7 @@ $ `npm install`
 * `$ npm run proxy` - Runs the Twitter proxy.
 
 ## Background
-The goal of this single-page webapp is to allow you to find a football game, and follow and join the discussion around it. Currently, the app displays the six highest football leagues in the United Kingdom.
+The goal of this single-page webapp is to allow you to find a football game, and follow and join the discussion around it. Currently, the app displays the seven highest football leagues in the United Kingdom.
 
 The football data is retrieved from [FastestLiveScores](http://fastestlivescores.com/), the discussions are extracted from [Twitter](https://twitter.com/). Please note the latter requires the use of a server-side proxy, to avoid exposing consumer key and secret.
 
