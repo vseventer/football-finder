@@ -10,16 +10,22 @@ $ `npm install`
 3. For production builds, ensure to have the Twitter proxy (see [Usage](#Usage)) configured properly in `config.json`.
 
 ## Usage
-$ `npm start` - Runs the app in development mode.
-$ `npm test` - Runs the test watcher in an interactive mode.
-$ `npm run build` - Builds the app for production to the `build` folder.
-$ `npm run proxy` - Runs the Twitter proxy.
+* `$ npm start` - Runs the app in development mode.
+* `$ npm test` - Runs the test watcher in an interactive mode.
+* `$ npm run build` - Builds the app for production to the `build` folder.
+* `$ npm run proxy` - Runs the Twitter proxy.
 
 ## Background
+The goal of this single-page webapp is to allow you to find a football game, and follow and join the discussion around it. Currently, the app displays the six highest football leagues in the United Kingdom.
 
+The football data is retrieved from [FastestLiveScores](http://fastestlivescores.com/), the discussions are extracted from [Twitter](https://twitter.com/). Please note the latter requires the use of a server-side proxy, to avoid exposing consumer key and secret.
+
+Front-end code is built using [React](https://facebook.github.io/react/), more specifically using [Create React App](https://github.com/facebookincubator/create-react-app) for simplicity, and tested with [Enzyme](https://github.com/airbnb/enzyme). Additional front-end tools are [jQuery](https://jquery.com/) (API requests), [Leaflet](http://leafletjs.com/) (map display), and [moment](http://momentjs.com/) (datetime formatting).
+
+Please note that, in case the FastestLiveScores API is unresponsive or returns an error (for example, when your demo account expired the api key will no longer be valid), a mock response (located in `mocks/matches.json` is used).
 
 ## Changelog
-See the [CHANGELOG.md](./CHANGELOG.md) for a list of changes.
+See the [CHANGELOG](./CHANGELOG.md) for a list of changes.
 
 ## License
     The MIT License (MIT)
