@@ -1,157 +1,17 @@
 [{
     "competition": {
-        "ordering": 10900,
-        "dbid": 44,
-        "name": "League One",
-        "flagUrl": "https://static.crowdscores.com/flags/england.png"
-    },
-    "nextState": null,
-    "currentStateStart": 1474403767000.0,
-    "dbid": 103615,
-    "aggregateScore": null,
-    "awayGoals": 0,
-    "start": 1474397100000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
-    "extraTimeHasHappened": false,
-    "season": {
-        "dbid": 12,
-        "end": 1498777200000.0,
-        "name": "2016/2017",
-        "start": 1467241200000.0
-    },
-    "homeTeam": {
-        "shirtUrl": "https://static.crowdscores.com/kits/scunthorpe-united-home.svg",
-        "name": "Scunthorpe United",
-        "dbid": 600,
-        "flagUrl": "https://static.crowdscores.com/flags/default.png",
-        "isNational": false,
-        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
-        "shortName": "Scunthorpe",
-        "shortCode": "SCU"
-    },
-    "dismissals": {
-        "home": 0,
-        "away": 0
-    },
-    "penaltyShootout": {},
-    "isResult": true,
-    "goToExtraTime": false,
-    "venue": {
-        "dbid": 611,
-        "capacity": 9088,
-        "name": "Glanford Park",
-        "geolocation": {
-            "latitude": 53.586722,
-            "longitude": -0.69525
-        }
-    },
-    "limitedCoverage": false,
-    "awayTeam": {
-        "shirtUrl": "https://static.crowdscores.com/kits/charlton-athletic-home.svg",
-        "name": "Charlton Athletic",
-        "dbid": 540,
-        "flagUrl": "https://static.crowdscores.com/flags/default.png",
-        "isNational": false,
-        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
-        "shortName": "Charlton",
-        "shortCode": "CHA"
-    },
-    "outcome": {
-        "winner": "draw",
-        "type": "simple",
-        "afterExtraTime": false
-    },
-    "round": {
-        "dbid": 1048,
-        "hasLeagueTable": true,
-        "name": "League One"
-    },
-    "currentState": 9
-}, {
-    "competition": {
-        "ordering": 10900,
-        "dbid": 44,
-        "name": "League One",
-        "flagUrl": "https://static.crowdscores.com/flags/england.png"
-    },
-    "nextState": null,
-    "currentStateStart": 1474404004000.0,
-    "dbid": 104311,
-    "aggregateScore": null,
-    "awayGoals": 2,
-    "start": 1474397100000.0,
-    "homeGoals": 1,
-    "linesOfText": [],
-    "extraTimeHasHappened": false,
-    "season": {
-        "dbid": 12,
-        "end": 1498777200000.0,
-        "name": "2016/2017",
-        "start": 1467241200000.0
-    },
-    "homeTeam": {
-        "shirtUrl": "https://static.crowdscores.com/kits/swindon-town-home.svg",
-        "name": "Swindon Town",
-        "dbid": 572,
-        "flagUrl": "https://static.crowdscores.com/flags/default.png",
-        "isNational": false,
-        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
-        "shortName": "Swindon",
-        "shortCode": "SWI"
-    },
-    "dismissals": {
-        "home": 0,
-        "away": 0
-    },
-    "penaltyShootout": {},
-    "isResult": true,
-    "goToExtraTime": false,
-    "venue": {
-        "dbid": 674,
-        "capacity": 14700,
-        "name": "County Ground, Swindon",
-        "geolocation": {
-            "latitude": 51.564444,
-            "longitude": -1.770556
-        }
-    },
-    "limitedCoverage": false,
-    "awayTeam": {
-        "shirtUrl": "https://static.crowdscores.com/kits/bristol-rovers-home.svg",
-        "name": "Bristol Rovers",
-        "dbid": 553,
-        "flagUrl": "https://static.crowdscores.com/flags/default.png",
-        "isNational": false,
-        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
-        "shortName": "Bristol R",
-        "shortCode": "BRR"
-    },
-    "outcome": {
-        "winner": "away",
-        "type": "simple",
-        "afterExtraTime": false
-    },
-    "round": {
-        "dbid": 1048,
-        "hasLeagueTable": true,
-        "name": "League One"
-    },
-    "currentState": 9
-}, {
-    "competition": {
         "ordering": 8900,
         "dbid": 42,
         "name": "Championship",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474663140000.0,
     "dbid": 73862,
     "aggregateScore": null,
     "awayGoals": 0,
     "start": 1474656300000.0,
-    "homeGoals": 0,
+    "homeGoals": 1,
     "linesOfText": [],
     "extraTimeHasHappened": false,
     "season": {
@@ -197,13 +57,17 @@
         "shortName": "Wigan",
         "shortCode": "WIG"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1046,
         "hasLeagueTable": true,
         "name": "Championship"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 13600,
@@ -4681,6 +4545,2448 @@
         "dbid": 1044,
         "hasLeagueTable": true,
         "name": "Premier League"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 8900,
+        "dbid": 42,
+        "name": "Championship",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73857,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/barnsley-home.svg",
+        "name": "Barnsley",
+        "dbid": 486,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Barnsley",
+        "shortCode": "BAR"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 81,
+        "capacity": 23009,
+        "name": "Oakwell",
+        "geolocation": {
+            "latitude": 53.552222,
+            "longitude": -1.4675
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/aston-villa-home.svg",
+        "name": "Aston Villa",
+        "dbid": 5,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Villa",
+        "shortCode": "AST"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1046,
+        "hasLeagueTable": true,
+        "name": "Championship"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 8900,
+        "dbid": 42,
+        "name": "Championship",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73856,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/birmingham-city-home.svg",
+        "name": "Birmingham City",
+        "dbid": 464,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Birmingham",
+        "shortCode": "BIR"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 101,
+        "capacity": 30016,
+        "name": "St Andrew's Stadium",
+        "geolocation": {
+            "latitude": 52.4757027778,
+            "longitude": -1.86818888889
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/preston-north-end-home.svg",
+        "name": "Preston North End",
+        "dbid": 563,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Preston",
+        "shortCode": "PNE"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1046,
+        "hasLeagueTable": true,
+        "name": "Championship"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 8900,
+        "dbid": 42,
+        "name": "Championship",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73855,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/blackburn-rovers-home.svg",
+        "name": "Blackburn Rovers",
+        "dbid": 541,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Blackburn",
+        "shortCode": "BRV"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 103,
+        "capacity": 31367,
+        "name": "Ewood Park",
+        "geolocation": {
+            "latitude": 53.7286111111,
+            "longitude": -2.48916666667
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/sheffield-wednesday-home.svg",
+        "name": "Sheffield Wednesday",
+        "dbid": 561,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Sheff Wed",
+        "shortCode": "WED"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1046,
+        "hasLeagueTable": true,
+        "name": "Championship"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 8900,
+        "dbid": 42,
+        "name": "Championship",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73853,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/brentford-home.svg",
+        "name": "Brentford",
+        "dbid": 581,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Brentford",
+        "shortCode": "BRE"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 123,
+        "capacity": 14863,
+        "name": "Griffin Park",
+        "geolocation": {
+            "latitude": 51.488167,
+            "longitude": -0.302639
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/reading-home.svg",
+        "name": "Reading",
+        "dbid": 544,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Reading",
+        "shortCode": "REA"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1046,
+        "hasLeagueTable": true,
+        "name": "Championship"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 8900,
+        "dbid": 42,
+        "name": "Championship",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73854,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/bristol-city-home.svg",
+        "name": "Bristol City",
+        "dbid": 571,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Bristol City",
+        "shortCode": "BRC"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 128,
+        "capacity": 21497,
+        "name": "Ashton Gate stadium",
+        "geolocation": {
+            "latitude": 51.44,
+            "longitude": -2.620278
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/leeds-united-home.svg",
+        "name": "Leeds United",
+        "dbid": 465,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Leeds Utd",
+        "shortCode": "LEE"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1046,
+        "hasLeagueTable": true,
+        "name": "Championship"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 8900,
+        "dbid": 42,
+        "name": "Championship",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73852,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/burton-albion-home.svg",
+        "name": "Burton Albion",
+        "dbid": 592,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Burton",
+        "shortCode": "BTN"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 139,
+        "capacity": 6912,
+        "name": "Pirelli Stadium",
+        "geolocation": {
+            "latitude": 52.821906,
+            "longitude": -1.626958
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/queens-park-rangers-home.svg",
+        "name": "Queens Park Rangers",
+        "dbid": 484,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "QPR",
+        "shortCode": "QPR"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1046,
+        "hasLeagueTable": true,
+        "name": "Championship"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 8900,
+        "dbid": 42,
+        "name": "Championship",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73851,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/cardiff-home.svg",
+        "name": "Cardiff City",
+        "dbid": 365,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Cardiff",
+        "shortCode": "CAR"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 149,
+        "capacity": 28050,
+        "name": "Cardiff City Stadium",
+        "geolocation": {
+            "latitude": 51.472778,
+            "longitude": -3.203056
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/derby-county-home.svg",
+        "name": "Derby County",
+        "dbid": 543,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Derby",
+        "shortCode": "DER"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1046,
+        "hasLeagueTable": true,
+        "name": "Championship"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 8900,
+        "dbid": 42,
+        "name": "Championship",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73850,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/huddersfield-town-home.svg",
+        "name": "Huddersfield Town",
+        "dbid": 557,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Huddersfield",
+        "shortCode": "HUD"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 376,
+        "capacity": 24500,
+        "name": "Galpharm Stadium",
+        "geolocation": {
+            "latitude": 53.6541666667,
+            "longitude": -1.76833333333
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/rotherham-united-home.svg",
+        "name": "Rotherham United",
+        "dbid": 574,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Rotherham",
+        "shortCode": "ROT"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1046,
+        "hasLeagueTable": true,
+        "name": "Championship"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 8900,
+        "dbid": 42,
+        "name": "Championship",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73849,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/ipswich-town-home.svg",
+        "name": "Ipswich Town",
+        "dbid": 485,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Ipswich",
+        "shortCode": "IPS"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 388,
+        "capacity": 30311,
+        "name": "Portman Road",
+        "geolocation": {
+            "latitude": 52.0550611111,
+            "longitude": 1.14483055556
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/brighton-hove-albion-home.svg",
+        "name": "Brighton & Hove Albion",
+        "dbid": 482,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Brighton",
+        "shortCode": "BHA"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1046,
+        "hasLeagueTable": true,
+        "name": "Championship"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 8900,
+        "dbid": 42,
+        "name": "Championship",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73846,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/nottingham-forest-home.svg",
+        "name": "Nottingham Forest",
+        "dbid": 545,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Forest",
+        "shortCode": "FOR"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 504,
+        "capacity": 30602,
+        "name": "City Ground, Nottingham",
+        "geolocation": {
+            "latitude": 52.94,
+            "longitude": -1.132778
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/fulham-home.svg",
+        "name": "Fulham",
+        "dbid": 6,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Fulham",
+        "shortCode": "FUL"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1046,
+        "hasLeagueTable": true,
+        "name": "Championship"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 8900,
+        "dbid": 42,
+        "name": "Championship",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73848,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/wigan-athletic-home.svg",
+        "name": "Wigan Athletic",
+        "dbid": 17,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Wigan",
+        "shortCode": "WIG"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 745,
+        "capacity": 25133,
+        "name": "DW Stadium",
+        "geolocation": {
+            "latitude": 53.547778,
+            "longitude": -2.653889
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/wolverhampton-wanderers-home.svg",
+        "name": "Wolverhampton Wanderers",
+        "dbid": 547,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Wolves",
+        "shortCode": "WOL"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1046,
+        "hasLeagueTable": true,
+        "name": "Championship"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 10900,
+        "dbid": 44,
+        "name": "League One",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 72749,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/bradford-city-home.svg",
+        "name": "Bradford City",
+        "dbid": 579,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Bradford",
+        "shortCode": "BRD"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 119,
+        "capacity": 25136,
+        "name": "Valley Parade",
+        "geolocation": {
+            "latitude": 53.8042222222,
+            "longitude": -1.75902222222
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/fleetwood-town-home.svg",
+        "name": "Fleetwood Town",
+        "dbid": 590,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Fleetwood",
+        "shortCode": "FLE"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1048,
+        "hasLeagueTable": true,
+        "name": "League One"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 10900,
+        "dbid": 44,
+        "name": "League One",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 72748,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/charlton-athletic-home.svg",
+        "name": "Charlton Athletic",
+        "dbid": 540,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Charlton",
+        "shortCode": "CHA"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 162,
+        "capacity": 27111,
+        "name": "The Valley",
+        "geolocation": {
+            "latitude": 51.4863888889,
+            "longitude": 0.0363888888889
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/oldham-athletic-home.svg",
+        "name": "Oldham Athletic",
+        "dbid": 577,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Oldham",
+        "shortCode": "OLD"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1048,
+        "hasLeagueTable": true,
+        "name": "League One"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 10900,
+        "dbid": 44,
+        "name": "League One",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 72750,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/chesterfield-home.svg",
+        "name": "Chesterfield",
+        "dbid": 594,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Chesterfield",
+        "shortCode": "CHF"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 171,
+        "capacity": 10504,
+        "name": "B2net Stadium",
+        "geolocation": {
+            "latitude": 53.253442,
+            "longitude": -1.427203
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/gillingham-home.svg",
+        "name": "Gillingham",
+        "dbid": 546,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Gillingham",
+        "shortCode": "GIL"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1048,
+        "hasLeagueTable": true,
+        "name": "League One"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 10900,
+        "dbid": 44,
+        "name": "League One",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 72745,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/milton-keynes-dons-home.svg",
+        "name": "MK Dons",
+        "dbid": 564,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "MK Dons",
+        "shortCode": "MKD"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 467,
+        "capacity": 30500,
+        "name": "Stadium:mk",
+        "geolocation": {
+            "latitude": 52.009444,
+            "longitude": -0.733333
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/bury-home.svg",
+        "name": "Bury",
+        "dbid": 589,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Bury",
+        "shortCode": "BRY"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1048,
+        "hasLeagueTable": true,
+        "name": "League One"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 10900,
+        "dbid": 44,
+        "name": "League One",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 72746,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/port-vale-home.svg",
+        "name": "Port Vale",
+        "dbid": 548,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Port Vale",
+        "shortCode": "PVL"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 559,
+        "capacity": 19052,
+        "name": "Vale Park",
+        "geolocation": {
+            "latitude": 53.049722,
+            "longitude": -2.1925
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/millwall-home.svg",
+        "name": "Millwall",
+        "dbid": 559,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Millwall",
+        "shortCode": "MWL"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1048,
+        "hasLeagueTable": true,
+        "name": "League One"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 10900,
+        "dbid": 44,
+        "name": "League One",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 72744,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/rochdale-home.svg",
+        "name": "Rochdale",
+        "dbid": 583,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Rochdale",
+        "shortCode": "ROC"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 589,
+        "capacity": 10249,
+        "name": "Spotland Stadium",
+        "geolocation": {
+            "latitude": 53.620833,
+            "longitude": -2.18
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/bolton-wanderers-home.svg",
+        "name": "Bolton Wanderers",
+        "dbid": 560,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Bolton",
+        "shortCode": "BOL"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1048,
+        "hasLeagueTable": true,
+        "name": "League One"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 10900,
+        "dbid": 44,
+        "name": "League One",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 72742,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/sheffield-united-home.svg",
+        "name": "Sheffield United",
+        "dbid": 578,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Sheff Utd",
+        "shortCode": "SHU"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 620,
+        "capacity": 32702,
+        "name": "Bramall Lane",
+        "geolocation": {
+            "latitude": 53.3702777778,
+            "longitude": -1.47083333333
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/bristol-rovers-home.svg",
+        "name": "Bristol Rovers",
+        "dbid": 553,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Bristol R",
+        "shortCode": "BRR"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1048,
+        "hasLeagueTable": true,
+        "name": "League One"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 10900,
+        "dbid": 44,
+        "name": "League One",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 72743,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/shrewsbury-town-home.svg",
+        "name": "Shrewsbury Town",
+        "dbid": 550,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Shrewsbury",
+        "shortCode": "SHR"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 624,
+        "capacity": 9875,
+        "name": "New Meadow",
+        "geolocation": {
+            "latitude": 52.68863,
+            "longitude": -2.74933
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/peterborough-united-home.svg",
+        "name": "Peterborough United",
+        "dbid": 567,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Peterborough",
+        "shortCode": "PET"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1048,
+        "hasLeagueTable": true,
+        "name": "League One"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 10900,
+        "dbid": 44,
+        "name": "League One",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 72741,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/southend-united-home.svg",
+        "name": "Southend United",
+        "dbid": 584,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Southend",
+        "shortCode": "SOU"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 638,
+        "capacity": 12392,
+        "name": "Roots Hall",
+        "geolocation": {
+            "latitude": 51.549,
+            "longitude": 0.701556
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/oxford-united-home.svg",
+        "name": "Oxford United",
+        "dbid": 539,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Oxford",
+        "shortCode": "OXF"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1048,
+        "hasLeagueTable": true,
+        "name": "League One"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 10900,
+        "dbid": 44,
+        "name": "League One",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 72739,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/swindon-town-home.svg",
+        "name": "Swindon Town",
+        "dbid": 572,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Swindon",
+        "shortCode": "SWI"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 674,
+        "capacity": 14700,
+        "name": "County Ground, Swindon",
+        "geolocation": {
+            "latitude": 51.564444,
+            "longitude": -1.770556
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/northampton-town-home.svg",
+        "name": "Northampton Town",
+        "dbid": 598,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Northampton",
+        "shortCode": "NTN"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1048,
+        "hasLeagueTable": true,
+        "name": "League One"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 10900,
+        "dbid": 44,
+        "name": "League One",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 72738,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/walsall-home.svg",
+        "name": "Walsall",
+        "dbid": 582,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Walsall",
+        "shortCode": "WAL"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 724,
+        "capacity": 11300,
+        "name": "Bescot Stadium",
+        "geolocation": {
+            "latitude": 52.565433,
+            "longitude": -1.990706
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/scunthorpe-united-home.svg",
+        "name": "Scunthorpe United",
+        "dbid": 600,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Scunthorpe",
+        "shortCode": "SCU"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1048,
+        "hasLeagueTable": true,
+        "name": "League One"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 13600,
+        "dbid": 45,
+        "name": "League Two",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73305,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/accrington-stanley-home.svg",
+        "name": "Accrington",
+        "dbid": 587,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Accrington",
+        "shortCode": "ACC"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 7,
+        "capacity": 5057,
+        "name": "Crown Ground",
+        "geolocation": {
+            "latitude": 53.765356,
+            "longitude": -2.370911
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/mansfield-town-home.svg",
+        "name": "Mansfield Town",
+        "dbid": 595,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Mansfield",
+        "shortCode": "MNS"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1049,
+        "hasLeagueTable": true,
+        "name": "League Two"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 13600,
+        "dbid": 45,
+        "name": "League Two",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73304,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/blackpool-home.svg",
+        "name": "Blackpool",
+        "dbid": 555,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Blackpool",
+        "shortCode": "BLA"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 104,
+        "capacity": 17338,
+        "name": "Bloomfield Road Stadium",
+        "geolocation": {
+            "latitude": 53.804722,
+            "longitude": -3.048055999999974
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/portsmouth-home.svg",
+        "name": "Portsmouth",
+        "dbid": 599,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Portsmouth",
+        "shortCode": "POR"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1049,
+        "hasLeagueTable": true,
+        "name": "League Two"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 13600,
+        "dbid": 45,
+        "name": "League Two",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73302,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/newport-county-home.svg",
+        "name": "Cambridge United",
+        "dbid": 645,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Cambridge",
+        "shortCode": "CAM"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 145,
+        "capacity": 9617,
+        "name": "Abbey Stadium",
+        "geolocation": {
+            "latitude": 52.2114,
+            "longitude": 0.15300000000002
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/yeovil-town-home.svg",
+        "name": "Yeovil Town",
+        "dbid": 562,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Yeovil",
+        "shortCode": "YEO"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1049,
+        "hasLeagueTable": true,
+        "name": "League Two"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 13600,
+        "dbid": 45,
+        "name": "League Two",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73303,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/cheltenham-town-home.svg",
+        "name": "Cheltenham Town",
+        "dbid": 593,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Cheltenham",
+        "shortCode": "CHT"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 166,
+        "capacity": 7066,
+        "name": "Whaddon Road",
+        "geolocation": {
+            "latitude": 51.906158,
+            "longitude": -2.060211
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/stevenage-home.svg",
+        "name": "Stevenage",
+        "dbid": 570,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Stevenage",
+        "shortCode": "STV"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1049,
+        "hasLeagueTable": true,
+        "name": "League Two"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 13600,
+        "dbid": 45,
+        "name": "League Two",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73301,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/crawley-town-home.svg",
+        "name": "Crawley Town",
+        "dbid": 552,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Crawley",
+        "shortCode": "CRW"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 201,
+        "capacity": 6134,
+        "name": "Broadfield Stadium",
+        "geolocation": {
+            "latitude": 51.099706,
+            "longitude": -0.194767
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/colchester-united-home.svg",
+        "name": "Colchester United",
+        "dbid": 576,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Colchester",
+        "shortCode": "COL"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1049,
+        "hasLeagueTable": true,
+        "name": "League Two"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 13600,
+        "dbid": 45,
+        "name": "League Two",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73297,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/doncaster-rovers-home.svg",
+        "name": "Doncaster Rovers",
+        "dbid": 554,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Doncaster",
+        "shortCode": "DON"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 230,
+        "capacity": 15231,
+        "name": "Keepmoat Stadium",
+        "geolocation": {
+            "latitude": 53.509722,
+            "longitude": -1.113889
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/carlisle-united-home.svg",
+        "name": "Carlisle United",
+        "dbid": 575,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Carlisle",
+        "shortCode": "CRL"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1049,
+        "hasLeagueTable": true,
+        "name": "League Two"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 13600,
+        "dbid": 45,
+        "name": "League Two",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73300,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/exeter-city-home.svg",
+        "name": "Exeter City",
+        "dbid": 565,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Exeter",
+        "shortCode": "EXE"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 273,
+        "capacity": 8541,
+        "name": "St James Park, Exeter",
+        "geolocation": {
+            "latitude": 50.7307138889,
+            "longitude": -3.52115
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/notts-county-home.svg",
+        "name": "Notts County",
+        "dbid": 580,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Notts County",
+        "shortCode": "NCO"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1049,
+        "hasLeagueTable": true,
+        "name": "League Two"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 13600,
+        "dbid": 45,
+        "name": "League Two",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73299,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/udinese-home.svg",
+        "name": "Grimsby Town",
+        "dbid": 646,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Grimsby",
+        "shortCode": "GRM"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 339,
+        "capacity": 9546,
+        "name": "Blundell Park",
+        "geolocation": {
+            "latitude": 53.570225,
+            "longitude": -0.046497
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/newport-county-home.svg",
+        "name": "Newport County",
+        "dbid": 597,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Newport",
+        "shortCode": "NWC"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1049,
+        "hasLeagueTable": true,
+        "name": "League Two"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 13600,
+        "dbid": 45,
+        "name": "League Two",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73298,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/hartlepool-united-home.svg",
+        "name": "Hartlepool United",
+        "dbid": 585,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Hartlepool",
+        "shortCode": "HRT"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 355,
+        "capacity": 7856,
+        "name": "Victoria Park (Hartlepool)",
+        "geolocation": {
+            "latitude": 54.689139,
+            "longitude": -1.2127219999999852
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/blackpool-home.svg",
+        "name": "Luton Town",
+        "dbid": 644,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Luton",
+        "shortCode": "LUT"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1049,
+        "hasLeagueTable": true,
+        "name": "League Two"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 13600,
+        "dbid": 45,
+        "name": "League Two",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73296,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/leyton-orient-home.svg",
+        "name": "Leyton Orient",
+        "dbid": 551,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Leyton Orient",
+        "shortCode": "LEY"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 424,
+        "capacity": 9271,
+        "name": "Brisbane Road",
+        "geolocation": {
+            "latitude": 51.560139,
+            "longitude": -0.012639
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/plymouth-argyle-home.svg",
+        "name": "Plymouth Argyle",
+        "dbid": 549,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Plymouth",
+        "shortCode": "PLY"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1049,
+        "hasLeagueTable": true,
+        "name": "League Two"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 13600,
+        "dbid": 45,
+        "name": "League Two",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73295,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/wycombe-wanderers-home.svg",
+        "name": "Wycombe Wanderers",
+        "dbid": 586,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Wycombe",
+        "shortCode": "WYC"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 756,
+        "capacity": 10284,
+        "name": "Adams Park",
+        "geolocation": {
+            "latitude": 51.6305555556,
+            "longitude": -0.800277777778
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/crewe-alexandra-home.svg",
+        "name": "Crewe Alexandra",
+        "dbid": 573,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Crewe",
+        "shortCode": "CRE"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1049,
+        "hasLeagueTable": true,
+        "name": "League Two"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 16700,
+        "dbid": 55,
+        "name": "National League",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 105509,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475001900000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/chelsea-home.svg",
+        "name": "Macclesfield Town",
+        "dbid": 569,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Macclesfield",
+        "shortCode": "MAC"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 442,
+        "capacity": 6355,
+        "name": "Moss Rose",
+        "geolocation": {
+            "latitude": 53.242781,
+            "longitude": -2.127136
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/default.svg",
+        "name": "Wrexham",
+        "dbid": 661,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Wrexham",
+        "shortCode": "WRE"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1052,
+        "hasLeagueTable": true,
+        "name": "National League"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 13600,
+        "dbid": 45,
+        "name": "League Two",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73292,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475002800000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/hull-home.svg",
+        "name": "Barnet",
+        "dbid": 652,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Barnet",
+        "shortCode": "BAR"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 80,
+        "capacity": 5176,
+        "name": "The Hive Stadium",
+        "geolocation": {
+            "latitude": 51.6026,
+            "longitude": -0.291785
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/morecambe-home.svg",
+        "name": "Morecambe",
+        "dbid": 596,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Morecambe",
+        "shortCode": "MOR"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1049,
+        "hasLeagueTable": true,
+        "name": "League Two"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 8900,
+        "dbid": 42,
+        "name": "Championship",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 73847,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475088300000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/newcastle-home.svg",
+        "name": "Newcastle United",
+        "dbid": 19,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Newcastle",
+        "shortCode": "NEW"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 488,
+        "capacity": 52405,
+        "name": "St James' Park",
+        "geolocation": {
+            "latitude": 54.9755555556,
+            "longitude": -1.62166666667
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/norwich-home.svg",
+        "name": "Norwich City",
+        "dbid": 364,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Norwich",
+        "shortCode": "NOR"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1046,
+        "hasLeagueTable": true,
+        "name": "Championship"
+    },
+    "currentState": 0
+}, {
+    "competition": {
+        "ordering": 10900,
+        "dbid": 44,
+        "name": "League One",
+        "flagUrl": "https://static.crowdscores.com/flags/england.png"
+    },
+    "nextState": 1,
+    "currentStateStart": null,
+    "dbid": 72747,
+    "aggregateScore": null,
+    "awayGoals": 0,
+    "start": 1475088300000.0,
+    "homeGoals": 0,
+    "linesOfText": [],
+    "extraTimeHasHappened": false,
+    "season": {
+        "dbid": 12,
+        "end": 1498777200000.0,
+        "name": "2016/2017",
+        "start": 1467241200000.0
+    },
+    "homeTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/coventry-city-home.svg",
+        "name": "Coventry City",
+        "dbid": 522,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Coventry",
+        "shortCode": "COV"
+    },
+    "dismissals": {
+        "home": 0,
+        "away": 0
+    },
+    "penaltyShootout": {},
+    "isResult": false,
+    "goToExtraTime": false,
+    "venue": {
+        "dbid": 199,
+        "capacity": 32609,
+        "name": "Ricoh Arena",
+        "geolocation": {
+            "latitude": 52.448056,
+            "longitude": -1.495556
+        }
+    },
+    "limitedCoverage": false,
+    "awayTeam": {
+        "shirtUrl": "https://static.crowdscores.com/kits/afc-wimbledon-home.svg",
+        "name": "AFC Wimbledon",
+        "dbid": 521,
+        "flagUrl": "https://static.crowdscores.com/flags/default.png",
+        "isNational": false,
+        "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
+        "shortName": "Wimbledon",
+        "shortCode": "WIM"
+    },
+    "outcome": null,
+    "round": {
+        "dbid": 1048,
+        "hasLeagueTable": true,
+        "name": "League One"
     },
     "currentState": 0
 }]
