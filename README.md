@@ -7,7 +7,7 @@ $ `npm install`
 ## Getting Started
 1. Update the API `apiKey` entry in `config.json`. This requires a (demo) account on [FastestLiveScores](http://fastestlivescores.com/live-scores-api-feed/).
 2. Update the Twitter consumer key and secret in `twitter.config.json`. This requires you to have an [app on Twitter](https://dev.twitter.com).
-3. For production builds, ensure to have the Twitter proxy (see [Usage](#Usage)) configured properly in `config.json`.
+3. For production builds, ensure to have the Twitter proxy (see [Usage](#usage)) configured properly in `config.json`.
 
 ## Usage
 * `$ npm start` - Runs the app in development mode.
