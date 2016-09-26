@@ -12,8 +12,8 @@
     "awayGoals": 0,
     "start": 1474656300000.0,
     "homeGoals": 1,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -35,7 +35,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 561,
@@ -75,15 +75,15 @@
         "name": "League Two",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474722364000.0,
     "dbid": 73310,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474715700000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -105,7 +105,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 452,
@@ -127,13 +127,17 @@
         "shortName": "Grimsby",
         "shortCode": "GRM"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "away",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1049,
         "hasLeagueTable": true,
         "name": "League Two"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 16700,
@@ -141,15 +145,15 @@
         "name": "National League",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474722529000.0,
     "dbid": 79610,
     "aggregateScore": null,
     "awayGoals": 0,
     "start": 1474715700000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -171,7 +175,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 754,
@@ -193,13 +197,17 @@
         "shortName": "Chester",
         "shortCode": "CHS"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "draw",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1052,
         "hasLeagueTable": true,
         "name": "National League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 6400,
@@ -207,15 +215,15 @@
         "name": "Premier League",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474723286000.0,
     "dbid": 69485,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474716600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 4,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -237,7 +245,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 451,
@@ -259,13 +267,17 @@
         "shortName": "Leicester",
         "shortCode": "LEI"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1044,
         "hasLeagueTable": true,
         "name": "Premier League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 6400,
@@ -273,15 +285,15 @@
         "name": "Premier League",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732558000.0,
     "dbid": 69489,
     "aggregateScore": null,
     "awayGoals": 0,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -303,7 +315,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 117,
@@ -325,13 +337,17 @@
         "shortName": "Everton",
         "shortCode": "EVE"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1044,
         "hasLeagueTable": true,
         "name": "Premier League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 6400,
@@ -339,15 +355,15 @@
         "name": "Premier League",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732277000.0,
     "dbid": 69487,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 5,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -366,10 +382,10 @@
     },
     "dismissals": {
         "home": 0,
-        "away": 0
+        "away": 1
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 430,
@@ -391,13 +407,17 @@
         "shortName": "Hull",
         "shortCode": "HUL"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1044,
         "hasLeagueTable": true,
         "name": "Premier League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 6400,
@@ -405,15 +425,15 @@
         "name": "Premier League",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732339000.0,
     "dbid": 69486,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 2,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -435,7 +455,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 464,
@@ -457,13 +477,17 @@
         "shortName": "Tottenham",
         "shortCode": "TOT"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "away",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1044,
         "hasLeagueTable": true,
         "name": "Premier League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 6400,
@@ -471,15 +495,15 @@
         "name": "Premier League",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732273000.0,
     "dbid": 69481,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -523,13 +547,17 @@
         "shortName": "West Brom",
         "shortCode": "WBA"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "draw",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1044,
         "hasLeagueTable": true,
         "name": "Premier League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 6400,
@@ -537,15 +565,15 @@
         "name": "Premier League",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732502000.0,
     "dbid": 69482,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 3,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 2,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -567,7 +595,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 670,
@@ -589,13 +617,17 @@
         "shortName": "Palace",
         "shortCode": "CRY"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "away",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1044,
         "hasLeagueTable": true,
         "name": "Premier League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 6400,
@@ -603,15 +635,15 @@
         "name": "Premier League",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732329000.0,
     "dbid": 69483,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 3,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -655,13 +687,17 @@
         "shortName": "Man City",
         "shortCode": "MNC"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "away",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1044,
         "hasLeagueTable": true,
         "name": "Premier League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 8900,
@@ -669,15 +705,15 @@
         "name": "Championship",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732499000.0,
     "dbid": 73864,
     "aggregateScore": null,
     "awayGoals": 0,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 2,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -721,13 +757,17 @@
         "shortName": "Barnsley",
         "shortCode": "BAR"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1046,
         "hasLeagueTable": true,
         "name": "Championship"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 8900,
@@ -735,15 +775,15 @@
         "name": "Championship",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732281000.0,
     "dbid": 73863,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 2,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -765,7 +805,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 222,
@@ -787,13 +827,17 @@
         "shortName": "Blackburn",
         "shortCode": "BRV"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "away",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1046,
         "hasLeagueTable": true,
         "name": "Championship"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 8900,
@@ -801,15 +845,15 @@
         "name": "Championship",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732373000.0,
     "dbid": 73869,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 4,
     "start": 1474725600000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -827,11 +871,11 @@
         "shortCode": "FUL"
     },
     "dismissals": {
-        "home": 0,
+        "home": 1,
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 312,
@@ -853,13 +897,17 @@
         "shortName": "Bristol City",
         "shortCode": "BRC"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "away",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1046,
         "hasLeagueTable": true,
         "name": "Championship"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 8900,
@@ -867,15 +915,15 @@
         "name": "Championship",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732490000.0,
     "dbid": 73866,
     "aggregateScore": null,
     "awayGoals": 0,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -897,7 +945,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 415,
@@ -919,13 +967,17 @@
         "shortName": "Ipswich",
         "shortCode": "IPS"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1046,
         "hasLeagueTable": true,
         "name": "Championship"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 8900,
@@ -933,15 +985,15 @@
         "name": "Championship",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732465000.0,
     "dbid": 73868,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 3,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -960,7 +1012,7 @@
     },
     "dismissals": {
         "home": 0,
-        "away": 0
+        "away": 1
     },
     "penaltyShootout": {},
     "isResult": false,
@@ -985,13 +1037,17 @@
         "shortName": "Burton",
         "shortCode": "BTN"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1046,
         "hasLeagueTable": true,
         "name": "Championship"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 8900,
@@ -999,15 +1055,15 @@
         "name": "Championship",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732218000.0,
     "dbid": 73858,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -1029,7 +1085,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 567,
@@ -1051,13 +1107,17 @@
         "shortName": "Birmingham",
         "shortCode": "BIR"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "draw",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1046,
         "hasLeagueTable": true,
         "name": "Championship"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 8900,
@@ -1065,15 +1125,15 @@
         "name": "Championship",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732451000.0,
     "dbid": 73859,
     "aggregateScore": null,
     "awayGoals": 0,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -1092,7 +1152,7 @@
     },
     "dismissals": {
         "home": 0,
-        "away": 0
+        "away": 1
     },
     "penaltyShootout": {},
     "isResult": false,
@@ -1117,13 +1177,17 @@
         "shortName": "Huddersfield",
         "shortCode": "HUD"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1046,
         "hasLeagueTable": true,
         "name": "Championship"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 8900,
@@ -1131,15 +1195,15 @@
         "name": "Championship",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732359000.0,
     "dbid": 73867,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 2,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -1183,13 +1247,17 @@
         "shortName": "Cardiff",
         "shortCode": "CAR"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "away",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1046,
         "hasLeagueTable": true,
         "name": "Championship"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 8900,
@@ -1197,15 +1265,15 @@
         "name": "Championship",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732449000.0,
     "dbid": 73860,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 2,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -1227,7 +1295,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 621,
@@ -1249,13 +1317,17 @@
         "shortName": "Forest",
         "shortCode": "FOR"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1046,
         "hasLeagueTable": true,
         "name": "Championship"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 8900,
@@ -1263,15 +1335,15 @@
         "name": "Championship",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732597000.0,
     "dbid": 73861,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 3,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -1293,7 +1365,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 751,
@@ -1315,13 +1387,17 @@
         "shortName": "Brentford",
         "shortCode": "BRE"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1046,
         "hasLeagueTable": true,
         "name": "Championship"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 9100,
@@ -1329,15 +1405,15 @@
         "name": "Premier League",
         "flagUrl": "https://static.crowdscores.com/flags/scotland.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732235000.0,
     "dbid": 70650,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 6,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -1359,7 +1435,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 157,
@@ -1381,13 +1457,17 @@
         "shortName": "Kilmarnock",
         "shortCode": "KIL"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1060,
         "hasLeagueTable": true,
         "name": "Premier League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 9100,
@@ -1395,15 +1475,15 @@
         "name": "Premier League",
         "flagUrl": "https://static.crowdscores.com/flags/scotland.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732390000.0,
     "dbid": 70652,
     "aggregateScore": null,
     "awayGoals": 0,
     "start": 1474725600000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -1422,7 +1502,7 @@
     },
     "dismissals": {
         "home": 0,
-        "away": 0
+        "away": 1
     },
     "penaltyShootout": {},
     "isResult": false,
@@ -1447,13 +1527,17 @@
         "shortName": "Ross County",
         "shortCode": "RSC"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "draw",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1060,
         "hasLeagueTable": true,
         "name": "Premier League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 9100,
@@ -1461,15 +1545,15 @@
         "name": "Premier League",
         "flagUrl": "https://static.crowdscores.com/flags/scotland.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732374000.0,
     "dbid": 70651,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 3,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -1513,13 +1597,17 @@
         "shortName": "Dundee",
         "shortCode": "DDE"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1060,
         "hasLeagueTable": true,
         "name": "Premier League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 9100,
@@ -1527,15 +1615,15 @@
         "name": "Premier League",
         "flagUrl": "https://static.crowdscores.com/flags/scotland.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732442000.0,
     "dbid": 70648,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -1557,7 +1645,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 534,
@@ -1579,13 +1667,17 @@
         "shortName": "Motherwell",
         "shortCode": "MTW"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "draw",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1060,
         "hasLeagueTable": true,
         "name": "Premier League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 10900,
@@ -1593,15 +1685,15 @@
         "name": "League One",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732709000.0,
     "dbid": 72751,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -1620,10 +1712,10 @@
     },
     "dismissals": {
         "home": 0,
-        "away": 0
+        "away": 1
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 15,
@@ -1645,13 +1737,17 @@
         "shortName": "Shrewsbury",
         "shortCode": "SHR"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "draw",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1048,
         "hasLeagueTable": true,
         "name": "League One"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 10900,
@@ -1659,15 +1755,15 @@
         "name": "League One",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732388000.0,
     "dbid": 72758,
     "aggregateScore": null,
     "awayGoals": 0,
     "start": 1474725600000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -1689,7 +1785,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 111,
@@ -1711,13 +1807,17 @@
         "shortName": "Bradford",
         "shortCode": "BRD"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "draw",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1048,
         "hasLeagueTable": true,
         "name": "League One"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 10900,
@@ -1725,15 +1825,15 @@
         "name": "League One",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732575000.0,
     "dbid": 72755,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 2,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -1777,13 +1877,17 @@
         "shortName": "Port Vale",
         "shortCode": "PVL"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1048,
         "hasLeagueTable": true,
         "name": "League One"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 10900,
@@ -1791,15 +1895,15 @@
         "name": "League One",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732446000.0,
     "dbid": 72757,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 2,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -1843,13 +1947,17 @@
         "shortName": "Chesterfield",
         "shortCode": "CHF"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1048,
         "hasLeagueTable": true,
         "name": "League One"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 10900,
@@ -1857,15 +1965,15 @@
         "name": "League One",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732415000.0,
     "dbid": 72762,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 4,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -1909,13 +2017,17 @@
         "shortName": "MK Dons",
         "shortCode": "MKD"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "away",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1048,
         "hasLeagueTable": true,
         "name": "League One"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 10900,
@@ -1923,15 +2035,15 @@
         "name": "League One",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732717000.0,
     "dbid": 72761,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 2,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -1953,7 +2065,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 325,
@@ -1975,13 +2087,17 @@
         "shortName": "Coventry",
         "shortCode": "COV"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1048,
         "hasLeagueTable": true,
         "name": "League One"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 10900,
@@ -1989,15 +2105,15 @@
         "name": "League One",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732601000.0,
     "dbid": 72760,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 3,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 2,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -2041,13 +2157,17 @@
         "shortName": "Rochdale",
         "shortCode": "ROC"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "away",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1048,
         "hasLeagueTable": true,
         "name": "League One"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 10900,
@@ -2055,15 +2175,15 @@
         "name": "League One",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732492000.0,
     "dbid": 72759,
     "aggregateScore": null,
     "awayGoals": 0,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 4,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -2082,10 +2202,10 @@
     },
     "dismissals": {
         "home": 0,
-        "away": 0
+        "away": 1
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 497,
@@ -2107,13 +2227,17 @@
         "shortName": "Southend",
         "shortCode": "SOU"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1048,
         "hasLeagueTable": true,
         "name": "League One"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 10900,
@@ -2121,15 +2245,15 @@
         "name": "League One",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732388000.0,
     "dbid": 72756,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 2,
     "start": 1474725600000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -2173,13 +2297,17 @@
         "shortName": "Swindon",
         "shortCode": "SWI"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "away",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1048,
         "hasLeagueTable": true,
         "name": "League One"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 10900,
@@ -2187,15 +2315,15 @@
         "name": "League One",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732603000.0,
     "dbid": 72754,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -2214,7 +2342,7 @@
     },
     "dismissals": {
         "home": 0,
-        "away": 0
+        "away": 1
     },
     "penaltyShootout": {},
     "isResult": false,
@@ -2239,13 +2367,17 @@
         "shortName": "Charlton",
         "shortCode": "CHA"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "draw",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1048,
         "hasLeagueTable": true,
         "name": "League One"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 10900,
@@ -2253,15 +2385,15 @@
         "name": "League One",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732436000.0,
     "dbid": 72753,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -2283,7 +2415,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 544,
@@ -2305,13 +2437,17 @@
         "shortName": "Walsall",
         "shortCode": "WAL"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "draw",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1048,
         "hasLeagueTable": true,
         "name": "League One"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 10900,
@@ -2319,15 +2455,15 @@
         "name": "League One",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732472000.0,
     "dbid": 72752,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 2,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 2,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -2346,10 +2482,10 @@
     },
     "dismissals": {
         "home": 0,
-        "away": 0
+        "away": 1
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 611,
@@ -2371,13 +2507,17 @@
         "shortName": "Sheff Utd",
         "shortCode": "SHU"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "draw",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1048,
         "hasLeagueTable": true,
         "name": "League One"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 12400,
@@ -2385,15 +2525,15 @@
         "name": "Championship",
         "flagUrl": "https://static.crowdscores.com/flags/scotland.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732541000.0,
     "dbid": 71081,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 2,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -2437,13 +2577,17 @@
         "shortName": "Morton",
         "shortCode": "MOR"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1061,
         "hasLeagueTable": true,
         "name": "Championship"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 12400,
@@ -2451,15 +2595,15 @@
         "name": "Championship",
         "flagUrl": "https://static.crowdscores.com/flags/scotland.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732157427.127,
     "dbid": 71083,
     "aggregateScore": null,
     "awayGoals": 0,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 2,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -2503,13 +2647,17 @@
         "shortName": "Ayr United",
         "shortCode": "AYR"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1061,
         "hasLeagueTable": true,
         "name": "Championship"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 12400,
@@ -2517,15 +2665,15 @@
         "name": "Championship",
         "flagUrl": "https://static.crowdscores.com/flags/scotland.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732131000.0,
     "dbid": 71077,
     "aggregateScore": null,
     "awayGoals": 0,
     "start": 1474725600000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -2544,7 +2692,7 @@
     },
     "dismissals": {
         "home": 0,
-        "away": 0
+        "away": 1
     },
     "penaltyShootout": {},
     "isResult": false,
@@ -2569,13 +2717,17 @@
         "shortName": "Hibernian",
         "shortCode": "HIB"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "draw",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1061,
         "hasLeagueTable": true,
         "name": "Championship"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 12400,
@@ -2583,15 +2735,15 @@
         "name": "Championship",
         "flagUrl": "https://static.crowdscores.com/flags/scotland.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732209000.0,
     "dbid": 71076,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 2,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 3,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -2610,7 +2762,7 @@
     },
     "dismissals": {
         "home": 0,
-        "away": 0
+        "away": 1
     },
     "penaltyShootout": {},
     "isResult": false,
@@ -2635,13 +2787,17 @@
         "shortName": "Dumbarton",
         "shortCode": "DUM"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1061,
         "hasLeagueTable": true,
         "name": "Championship"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 13600,
@@ -2649,15 +2805,15 @@
         "name": "League Two",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732576000.0,
     "dbid": 73317,
     "aggregateScore": null,
     "awayGoals": 0,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -2701,13 +2857,17 @@
         "shortName": "Wycombe",
         "shortCode": "WYC"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1049,
         "hasLeagueTable": true,
         "name": "League Two"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 13600,
@@ -2715,15 +2875,15 @@
         "name": "League Two",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732611000.0,
     "dbid": 73313,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 2,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -2742,7 +2902,7 @@
     },
     "dismissals": {
         "home": 0,
-        "away": 0
+        "away": 1
     },
     "penaltyShootout": {},
     "isResult": false,
@@ -2767,13 +2927,17 @@
         "shortName": "Accrington",
         "shortCode": "ACC"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "away",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1049,
         "hasLeagueTable": true,
         "name": "League Two"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 13600,
@@ -2781,15 +2945,15 @@
         "name": "League Two",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732541000.0,
     "dbid": 73312,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -2833,13 +2997,17 @@
         "shortName": "Blackpool",
         "shortCode": "BLA"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "draw",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1049,
         "hasLeagueTable": true,
         "name": "League Two"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 13600,
@@ -2847,15 +3015,15 @@
         "name": "League Two",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474733390000.0,
     "dbid": 73311,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 3,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -2873,7 +3041,7 @@
         "shortCode": "LUT"
     },
     "dismissals": {
-        "home": 0,
+        "home": 1,
         "away": 0
     },
     "penaltyShootout": {},
@@ -2899,13 +3067,17 @@
         "shortName": "Doncaster",
         "shortCode": "DON"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1049,
         "hasLeagueTable": true,
         "name": "League Two"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 13600,
@@ -2913,15 +3085,15 @@
         "name": "League Two",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732409000.0,
     "dbid": 73316,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 3,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 2,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -2965,13 +3137,17 @@
         "shortName": "Crawley",
         "shortCode": "CRW"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "away",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1049,
         "hasLeagueTable": true,
         "name": "League Two"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 13600,
@@ -2979,15 +3155,15 @@
         "name": "League Two",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732587000.0,
     "dbid": 73309,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 2,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -3031,13 +3207,17 @@
         "shortName": "Cambridge",
         "shortCode": "CAM"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "away",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1049,
         "hasLeagueTable": true,
         "name": "League Two"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 13600,
@@ -3045,15 +3225,15 @@
         "name": "League Two",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732666000.0,
     "dbid": 73315,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 3,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -3097,13 +3277,17 @@
         "shortName": "Leyton Orient",
         "shortCode": "LEY"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1049,
         "hasLeagueTable": true,
         "name": "League Two"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 13600,
@@ -3111,15 +3295,15 @@
         "name": "League Two",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732511000.0,
     "dbid": 73314,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -3138,7 +3322,7 @@
     },
     "dismissals": {
         "home": 0,
-        "away": 0
+        "away": 1
     },
     "penaltyShootout": {},
     "isResult": false,
@@ -3163,13 +3347,17 @@
         "shortName": "Hartlepool",
         "shortCode": "HRT"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "draw",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1049,
         "hasLeagueTable": true,
         "name": "League Two"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 13600,
@@ -3177,15 +3365,15 @@
         "name": "League Two",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732357000.0,
     "dbid": 73308,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 5,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -3204,10 +3392,10 @@
     },
     "dismissals": {
         "home": 0,
-        "away": 0
+        "away": 1
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 556,
@@ -3229,13 +3417,17 @@
         "shortName": "Barnet",
         "shortCode": "BAR"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1049,
         "hasLeagueTable": true,
         "name": "League Two"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 13600,
@@ -3243,15 +3435,15 @@
         "name": "League Two",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732326000.0,
     "dbid": 73307,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 2,
     "start": 1474725600000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -3270,7 +3462,7 @@
     },
     "dismissals": {
         "home": 0,
-        "away": 0
+        "away": 1
     },
     "penaltyShootout": {},
     "isResult": false,
@@ -3295,13 +3487,17 @@
         "shortName": "Exeter",
         "shortCode": "EXE"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "away",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1049,
         "hasLeagueTable": true,
         "name": "League Two"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 13600,
@@ -3309,15 +3505,15 @@
         "name": "League Two",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732822000.0,
     "dbid": 73306,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 2,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 4,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -3339,7 +3535,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 757,
@@ -3361,13 +3557,17 @@
         "shortName": "Cheltenham",
         "shortCode": "CHT"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1049,
         "hasLeagueTable": true,
         "name": "League Two"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 16700,
@@ -3375,15 +3575,15 @@
         "name": "National League",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732324000.0,
     "dbid": 79624,
     "aggregateScore": null,
     "awayGoals": 0,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 3,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -3405,7 +3605,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 26,
@@ -3427,13 +3627,17 @@
         "shortName": "Gateshead",
         "shortCode": "GAT"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1052,
         "hasLeagueTable": true,
         "name": "National League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 16700,
@@ -3441,15 +3645,15 @@
         "name": "National League",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732466000.0,
     "dbid": 79619,
     "aggregateScore": null,
     "awayGoals": 0,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 2,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -3471,7 +3675,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 82,
@@ -3493,13 +3697,17 @@
         "shortName": "York",
         "shortCode": "YOR"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1052,
         "hasLeagueTable": true,
         "name": "National League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 16700,
@@ -3507,15 +3715,15 @@
         "name": "National League",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732422000.0,
     "dbid": 79618,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -3537,7 +3745,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 121,
@@ -3559,13 +3767,17 @@
         "shortName": "Forest G",
         "shortCode": "FGR"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "away",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1052,
         "hasLeagueTable": true,
         "name": "National League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 16700,
@@ -3573,15 +3785,15 @@
         "name": "National League",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732723000.0,
     "dbid": 79617,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 3,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -3595,7 +3807,7 @@
         "flagUrl": "https://static.crowdscores.com/flags/default.png",
         "isNational": false,
         "badgeUrl": "https://static.crowdscores.com/badges/default.svg",
-        "shortName": "Bromley ",
+        "shortName": "Bromley",
         "shortCode": "BRO"
     },
     "dismissals": {
@@ -3622,13 +3834,17 @@
         "shortName": "Dag & Red ",
         "shortCode": "DAG"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "away",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1052,
         "hasLeagueTable": true,
         "name": "National League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 16700,
@@ -3636,15 +3852,15 @@
         "name": "National League",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732520000.0,
     "dbid": 79616,
     "aggregateScore": null,
     "awayGoals": 0,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 2,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -3666,7 +3882,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 232,
@@ -3688,13 +3904,17 @@
         "shortName": "Lincoln",
         "shortCode": "LCN"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1052,
         "hasLeagueTable": true,
         "name": "National League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 16700,
@@ -3702,15 +3922,15 @@
         "name": "National League",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732327000.0,
     "dbid": 79615,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 2,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -3754,13 +3974,17 @@
         "shortName": "Sutton",
         "shortCode": "SUT"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1052,
         "hasLeagueTable": true,
         "name": "National League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 16700,
@@ -3768,15 +3992,15 @@
         "name": "National League",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732525000.0,
     "dbid": 79614,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 2,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -3798,7 +4022,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 343,
@@ -3817,13 +4041,17 @@
         "shortName": "Macclesfield",
         "shortCode": "MAC"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "away",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1052,
         "hasLeagueTable": true,
         "name": "National League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 16700,
@@ -3831,15 +4059,15 @@
         "name": "National League",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732276000.0,
     "dbid": 79613,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -3861,7 +4089,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 499,
@@ -3880,13 +4108,17 @@
         "shortName": "Southport",
         "shortCode": "SPT"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "away",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1052,
         "hasLeagueTable": true,
         "name": "National League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 16700,
@@ -3894,15 +4126,15 @@
         "name": "National League",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732342000.0,
     "dbid": 79612,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -3924,7 +4156,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 636,
@@ -3946,13 +4178,17 @@
         "shortName": "Boreham Wood",
         "shortCode": "BOR"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "draw",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1052,
         "hasLeagueTable": true,
         "name": "National League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 16700,
@@ -3960,15 +4196,15 @@
         "name": "National League",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732742000.0,
     "dbid": 79611,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 3,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 2,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -4012,13 +4248,17 @@
         "shortName": "Maidstone",
         "shortCode": "MDS"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "away",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1052,
         "hasLeagueTable": true,
         "name": "National League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 16700,
@@ -4026,15 +4266,15 @@
         "name": "National League",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474732437000.0,
     "dbid": 79609,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474725600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 3,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -4053,7 +4293,7 @@
     },
     "dismissals": {
         "home": 0,
-        "away": 0
+        "away": 1
     },
     "penaltyShootout": {},
     "isResult": false,
@@ -4078,13 +4318,17 @@
         "shortName": "Woking",
         "shortCode": "WOK"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1052,
         "hasLeagueTable": true,
         "name": "National League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 12400,
@@ -4092,15 +4336,15 @@
         "name": "Championship",
         "flagUrl": "https://static.crowdscores.com/flags/scotland.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474740392000.0,
     "dbid": 71078,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 3,
     "start": 1474733700000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 4,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -4144,13 +4388,17 @@
         "shortName": "St Mirren",
         "shortCode": "SMI"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1061,
         "hasLeagueTable": true,
         "name": "Championship"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 6400,
@@ -4158,15 +4406,15 @@
         "name": "Premier League",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474741227000.0,
     "dbid": 69488,
     "aggregateScore": null,
     "awayGoals": 0,
     "start": 1474734600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 3,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -4188,7 +4436,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 47,
@@ -4210,13 +4458,17 @@
         "shortName": "Chelsea",
         "shortCode": "CHE"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1044,
         "hasLeagueTable": true,
         "name": "Premier League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 8900,
@@ -4224,15 +4476,15 @@
         "name": "Championship",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474741577000.0,
     "dbid": 73865,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474734600000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -4276,13 +4528,17 @@
         "shortName": "Newcastle",
         "shortCode": "NEW"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "draw",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1046,
         "hasLeagueTable": true,
         "name": "Championship"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 9100,
@@ -4290,15 +4546,15 @@
         "name": "Premier League",
         "flagUrl": "https://static.crowdscores.com/flags/scotland.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474811570000.0,
     "dbid": 70653,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474804800000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 2,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -4320,7 +4576,7 @@
         "away": 0
     },
     "penaltyShootout": {},
-    "isResult": false,
+    "isResult": true,
     "goToExtraTime": false,
     "venue": {
         "dbid": 4,
@@ -4342,13 +4598,17 @@
         "shortName": "Rangers",
         "shortCode": "RAN"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "home",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1060,
         "hasLeagueTable": true,
         "name": "Premier League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 9100,
@@ -4356,15 +4616,15 @@
         "name": "Premier League",
         "flagUrl": "https://static.crowdscores.com/flags/scotland.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474818692000.0,
     "dbid": 70649,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 1,
     "start": 1474812000000.0,
-    "homeGoals": 0,
-    "linesOfText": [],
+    "homeGoals": 1,
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -4408,13 +4668,17 @@
         "shortName": "St Johnstone",
         "shortCode": "STJ"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "draw",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1060,
         "hasLeagueTable": true,
         "name": "Premier League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 6400,
@@ -4422,15 +4686,15 @@
         "name": "Premier League",
         "flagUrl": "https://static.crowdscores.com/flags/england.png"
     },
-    "nextState": 1,
-    "currentStateStart": null,
+    "nextState": null,
+    "currentStateStart": 1474822253000.0,
     "dbid": 69484,
     "aggregateScore": null,
-    "awayGoals": 0,
+    "awayGoals": 3,
     "start": 1474815600000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -4474,13 +4738,17 @@
         "shortName": "Southampton",
         "shortCode": "SOT"
     },
-    "outcome": null,
+    "outcome": {
+        "winner": "away",
+        "type": "simple",
+        "afterExtraTime": false
+    },
     "round": {
         "dbid": 1044,
         "hasLeagueTable": true,
         "name": "Premier League"
     },
-    "currentState": 0
+    "currentState": 9
 }, {
     "competition": {
         "ordering": 6400,
@@ -4495,8 +4763,8 @@
     "awayGoals": 0,
     "start": 1474916400000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -4561,8 +4829,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -4627,8 +4895,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -4693,8 +4961,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -4759,8 +5027,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -4825,8 +5093,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -4891,8 +5159,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -4957,8 +5225,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -5023,8 +5291,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -5089,8 +5357,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -5155,8 +5423,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -5221,8 +5489,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -5287,8 +5555,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -5353,8 +5621,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -5419,8 +5687,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -5485,8 +5753,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -5551,8 +5819,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -5617,8 +5885,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -5683,8 +5951,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -5749,8 +6017,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -5815,8 +6083,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -5881,8 +6149,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -5947,8 +6215,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -6013,8 +6281,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -6079,8 +6347,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -6145,8 +6413,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -6211,8 +6479,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -6277,8 +6545,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -6343,8 +6611,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -6409,8 +6677,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -6475,8 +6743,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -6541,8 +6809,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -6607,8 +6875,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -6673,8 +6941,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -6739,8 +7007,8 @@
     "awayGoals": 0,
     "start": 1475001900000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -6805,8 +7073,8 @@
     "awayGoals": 0,
     "start": 1475002800000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -6871,8 +7139,8 @@
     "awayGoals": 0,
     "start": 1475088300000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
@@ -6937,8 +7205,8 @@
     "awayGoals": 0,
     "start": 1475088300000.0,
     "homeGoals": 0,
-    "linesOfText": [],
     "extraTimeHasHappened": false,
+    "linesOfText": [],
     "season": {
         "dbid": 12,
         "end": 1498777200000.0,
